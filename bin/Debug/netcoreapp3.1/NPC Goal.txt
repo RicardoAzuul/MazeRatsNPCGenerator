@@ -1,0 +1,41 @@
+A better life
+Acceptance
+Acquire item
+Craft item
+Destroy faction
+Destroy item
+
+Enlightenment
+Fame
+Found faction
+Freedom
+Glory
+Impress NPC
+
+Infamy
+Infiltrate faction
+Justice
+Kidnap NPC
+Lead faction
+Learning
+
+Locate NPC
+Love
+Mastery
+Power
+Reach location
+Rescue NPC
+
+Resolve dispute
+Restore faction
+Reveal a secret
+Revenge
+Sabotage faction
+Serve a deity
+
+Serve evil
+Serve faction
+Serve ideology
+Serve leader
+Serve the needy
+Wealth
