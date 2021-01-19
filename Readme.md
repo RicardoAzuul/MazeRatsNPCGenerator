@@ -20,7 +20,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/RicardoAzuul/MazeRatsNPCGenerator/graphs/contributors]
+[![Contributors][contributors-shield]]
 [![Forks][forks-shield]][https://github.com/RicardoAzuul/MazeRatsNPCGenerator/network/members]
 [![Stargazers][stars-shield]][https://github.com/RicardoAzuul/MazeRatsNPCGenerator/stargazers]
 [![Issues][issues-shield]][https://github.com/RicardoAzuul/MazeRatsNPCGenerator/issues]
