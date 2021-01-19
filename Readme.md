@@ -28,14 +28,13 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 
   <h3 align="center">Maze Rats NPC Generator</h3>
 
   <p align="center">
-    project_description
+    A simple CLI app to quickly generate NPCs based on Maze Rats excellent random tables
     <br />
     <a href="https://github.com/RicardoAzuul/MazeRatsNPCGenerator"><strong>Explore the docs »</strong></a>
     <br />
@@ -47,8 +46,6 @@
     <a href="https://github.com/RicardoAzuul/MazeRatsNPCGenerator/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -180,7 +177,7 @@ Project Link: [https://github.com/RicardoAzuul/MazeRatsNPCGenerator](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/RicardoAzuul/MazeRatsNPCGenerator.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo/network/members
