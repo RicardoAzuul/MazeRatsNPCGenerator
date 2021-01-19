@@ -73,23 +73,20 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+After participating a C# 101 course I decided to combine a few things: my newfound appreciation for C# to quickly create a CLI app, my hobby of roleplaying, 
+specifically game mastering, and my desire to automate. I admired all the random tables that come with the lovely little RPG Maze Rats, but find rolling a bunch
+of times tedious, personally.
+So I decided to create a little CLI app that parses all the random tables - supplied as text files - generates a bunch of random numbers, and then uses those to 
+output results from the random tables to a log file.
 
 ### Built With
 
 * C#[]()
 * Visual Studio[]()
-* The Maze Rats PDF https://www.drivethrurpg.com/product/197158/Maze-Rats[]()
-
-
+* The Maze Rats PDF https://www.drivethrurpg.com/product/197158/Maze-Rats
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -146,14 +143,10 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -162,18 +155,12 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/RicardoAzuul/MazeRatsNPCGenerator](https://github.com/RicardoAzuul/MazeRatsNPCGenerator)
 
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
 * []()
 * []()
 * []()
-
-
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
