@@ -76,11 +76,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-After participating a C# 101 course I decided to combine a few things: my newfound appreciation for C# to quickly create a CLI app, my hobby of roleplaying, 
+After participating in a C# 101 course I decided to combine a few things: my newfound appreciation for C# to quickly create a CLI app, my hobby of roleplaying, 
 specifically game mastering, and my desire to automate. I admired all the random tables that come with the lovely little RPG Maze Rats, but find rolling a bunch
 of times tedious, personally.
 So I decided to create a little CLI app that parses all the random tables - supplied as text files - generates a bunch of random numbers, and then uses those to 
 output results from the random tables to a log file.
+Generate as many NPCs as you want, from the commandline!
 
 ### Built With
 
