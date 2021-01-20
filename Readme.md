@@ -92,7 +92,7 @@ Generate as many NPCs as you want, from the commandline!
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these steps.
 
 ### Prerequisites
 
@@ -159,9 +159,9 @@ Project Link: [https://github.com/RicardoAzuul/MazeRatsNPCGenerator](https://git
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* Sascha Klomp, for teaching the C# 101 course
+* Torben Knulst, for also teaching the C# 101 course
+* Ben Milton, for creating Maze Rats: http://questingblog.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

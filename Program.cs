@@ -10,6 +10,7 @@ namespace MazeRatsNPCGenerator
         {
             // First check if there are any text files: without them, nothing will be generated
             string currentDir = Directory.GetCurrentDirectory();
+            string appdataDir = currentDir + "\\appdata";
             var files = Directory.GetFiles(currentDir, "*.txt");
 
             if (files.Length == 0)
