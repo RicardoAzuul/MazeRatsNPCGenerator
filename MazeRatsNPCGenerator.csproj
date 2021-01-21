@@ -24,49 +24,49 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="NPC Goal.txt">
+    <Content Include="appdata\NPC Goal.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Liability.txt">
+    <Content Include="appdata\Liability.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Asset.txt">
+    <Content Include="appdata\Asset.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Appearance.txt">
+    <Content Include="appdata\Appearance.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Wilderness NPC.txt">
+    <Content Include="appdata\Wilderness NPC.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Underworld NPC.txt">
+    <Content Include="appdata\Underworld NPC.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Clothing.txt">
+    <Content Include="appdata\Clothing.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Civilized NPC.txt">
+    <Content Include="appdata\Civilized NPC.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Method.txt">
+    <Content Include="appdata\Method.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Mannerism.txt">
+    <Content Include="appdata\Mannerism.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Personality.txt">
+    <Content Include="appdata\Personality.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Hobby.txt">
+    <Content Include="appdata\Hobby.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Reputation.txt">
+    <Content Include="appdata\Reputation.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Secret.txt">
+    <Content Include="appdata\Secret.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Physical Detail.txt">
+    <Content Include="appdata\Physical Detail.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
