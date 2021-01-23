@@ -96,11 +96,8 @@ To get a local copy up and running follow these steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Download and install Visual Studio Community Edition, with the .NET Desktop Development components: https://visualstudio.microsoft.com/
+
 
 ### Installation
 
@@ -108,12 +105,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/RicardoAzuul/MazeRatsNPCGenerator.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -124,14 +115,10 @@ If you run it without any arguments, it generates a default of 10 NPCs.
 If you run it with /?, it displays a short help text.
 If you run it with a number, it will generate that many NPCs.
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -152,7 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Richard Blaauw - [@twitter_handle](https://twitter.com/twitter_handle) - richard.t.blaauw@gmail.com
 
 Project Link: [https://github.com/RicardoAzuul/MazeRatsNPCGenerator](https://github.com/RicardoAzuul/MazeRatsNPCGenerator)
 

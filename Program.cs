@@ -11,7 +11,7 @@ namespace MazeRatsNPCGenerator
             // First check if there are any text files: without them, nothing will be generated
             string currentDir = Directory.GetCurrentDirectory();
             string appdataDir = currentDir + "\\appdata";
-            var files = Directory.GetFiles(currentDir, "*.txt");
+            var files = Directory.GetFiles(appdataDir, "*.txt");
 
             if (files.Length == 0)
             {
@@ -63,6 +63,7 @@ namespace MazeRatsNPCGenerator
             for (int i = 0; i < numberofNPCs; i++)
             {
                 listofResults.Add($"NPC {i + 1}");
+
                 foreach (var file in files)
                 {
                     listofLists = new List<List<string>>();
